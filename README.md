@@ -13,6 +13,7 @@ for graduate roles in **credit risk, model validation and risk analytics** in th
 - [SmartDocFlow-X](https://github.com/Famulkalam/SmartDocFlow-X): GPT-4o document migration with deterministic checks that flag changed, missing or invented numbers
 - [RTIE](https://github.com/Famulkalam/RTIE): calibrated deep-learning fault detection on simulated thermal images, with ONNX export ([live demo](https://huggingface.co/spaces/famulkalam/RTIE))
 - [Adaptive LLM router](https://github.com/Famulkalam/adaptive-llm-router-nli): cost-aware prompt routing for NLI, benchmarked against a free local model
+
 **Tools:** Python (pandas, scikit-learn, XGBoost, PyTorch), SQL, Power BI, Git
 
 [LinkedIn](https://www.linkedin.com/in/famulkalam)
